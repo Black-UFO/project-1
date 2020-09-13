@@ -33,7 +33,6 @@
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
       "value": "ANYTHING"
-      "required": true
     }
   },
   "addons": [
